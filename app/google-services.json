@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "229369177779",
+    "firebase_url": "https://bus-on-time-4a0df.firebaseio.com",
+    "project_id": "bus-on-time-4a0df",
+    "storage_bucket": "bus-on-time-4a0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229369177779:android:865957c6d62d6c4a",
+        "android_client_info": {
+          "package_name": "com.project.busontime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229369177779-lis54mfljrt8u1101gcvk40fa8bcgl7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQ7RN17Gxikaaj8mLkRYGReyRBjFePCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229369177779-lis54mfljrt8u1101gcvk40fa8bcgl7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229369177779:android:311593a893f817fb",
+        "android_client_info": {
+          "package_name": "com.project.busontimeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229369177779-lis54mfljrt8u1101gcvk40fa8bcgl7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQ7RN17Gxikaaj8mLkRYGReyRBjFePCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229369177779-lis54mfljrt8u1101gcvk40fa8bcgl7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229369177779:android:4b0304b3fdfc75ca",
+        "android_client_info": {
+          "package_name": "com.project.busontimedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229369177779-lis54mfljrt8u1101gcvk40fa8bcgl7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQ7RN17Gxikaaj8mLkRYGReyRBjFePCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229369177779-lis54mfljrt8u1101gcvk40fa8bcgl7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
